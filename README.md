@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ken Christian Zaragoza</h1>
 <h3 align="center">An enthusiastic Computer Engineering Student who is currently in the midst of developing skills and knowledge in programming.</h3>
 
-- 🌱 I’m currently learning **Python, MySQL Machine Learning & soon AI**
+- 🌱 I’m currently learning **Python, MySQL, Machine Learning & soon AI**
 
 - 📫 How to reach me **kcaz35p@gmail.com**
 
