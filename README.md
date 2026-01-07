@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ken Christian Zaragoza</h1>
-<h3 align="center">An enthusiastic Computer Engineering Graduate who is currently in the midst of developing skills and knowledge in programming.</h3>
+<h3 align="center">An enthusiastic Computer Engineering Graduate, who is currently in the midst of developing skills and knowledge in programming.</h3>
 
 - 🌱 I'm currently diving into ** The Odin Project** to build my foundations in becoming a full stack developer. 
 
